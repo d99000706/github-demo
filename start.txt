@@ -1,0 +1,6 @@
+
+Some project info here:
+
+https://github.com/d99000706/github-demo.git
+
+MINGW64:/c/Users/Home/projects
